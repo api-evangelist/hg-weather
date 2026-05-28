@@ -1,0 +1,32 @@
+aid: hg-weather
+name: HG Weather
+description: "Provides weather forecast data for cities in Brazil"
+url: https://hgbrasil.com/status/weather
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Weather"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Weather
+  - Public APIs
+apis:
+  - name: HG Weather
+    description: "Provides weather forecast data for cities in Brazil"
+    humanURL: https://hgbrasil.com/status/weather
+    baseURL: https://hgbrasil.com/status/weather
+    tags:
+      - Weather
+    properties:
+      - type: Documentation
+        url: https://hgbrasil.com/status/weather
+common:
+  - type: Website
+    url: https://hgbrasil.com/status/weather
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
