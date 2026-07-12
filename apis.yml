@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://hgbrasil.com/status/weather
 common:
+  - type: DomainSecurity
+    url: security/hg-weather-domain-security.yml
   - type: Website
     url: https://hgbrasil.com/status/weather
   - type: PublicAPIsListing
