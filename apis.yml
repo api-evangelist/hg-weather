@@ -1,4 +1,16 @@
 aid: hg-weather
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hg-weather.png
 name: HG Weather
 description: "Provides weather forecast data for cities in Brazil"
 url: https://hgbrasil.com/status/weather
