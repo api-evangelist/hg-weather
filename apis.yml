@@ -39,7 +39,6 @@ apis:
   - name: HG Weather
     description: "Provides weather forecast data for cities in Brazil"
     humanURL: https://hgbrasil.com/status/weather
-    baseURL: https://hgbrasil.com/status/weather
     tags:
       - Weather
     properties:
